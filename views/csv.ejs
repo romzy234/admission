@@ -1,0 +1,6 @@
+S/N, Applicant Name,Applicant Email, Department, Grade Cummlative Score
+
+<%var x = 1%><%data.forEach(value=>{%>
+    <%=x%>,<%= value.name%>,<%= value.applicant_email%>,<%= value.department%>,<%= value.gradeCummlativeScore%>
+<%x++%>
+<%})%>

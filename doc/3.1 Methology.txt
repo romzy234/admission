@@ -1,0 +1,20 @@
+    a) PHP is a server-side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server. According to W3Techs' data, PHP is used by 78.9% of all websites with a known server-side programming language. So almost 8 out of every 10 websites that you visit on the Internet are using PHP in some way. It was used in developing the QR code generator. 
+    b) CSS stands for Cascading style sheet it Is a style sheet language used for describing the      presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. It is designed to enable the separation of presentation and content including layout, Font and Text. The name cascading comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable.  
+    c) XML: Extensible markup language XML is a data definition and exchange language; it happens the be the technology used by Android studio in designing user interfaces in a mobile application. 
+    d) XAMPP: XAMPP is a bundle of software used in developing applications locally. It contains apache which is a Linux server, when installed, the apache converts the developer’s machine to a local server which can be used in web development. Aside apache, xampp also contains perl, PHP and MYSQL. 
+    e) SQL: Structured query language SQL is the application used in handling all the queries to and from the database of this application. Sql enables us to select, insert, update and delete from the database. 
+    f) MYSQL: MySQL is a relational database used to save user information for easy insertion, retrieval and deletion. It is adopted as the database of the application, all patient, doctor and pharmacy registrations are stored here. 
+    
+    
+    Html
+    css
+    Javascirpt
+    NodeJs
+    Mongodb
+    VScode
+    
+        3.3 FEASIBILITY STUDY 
+Applying the novel trends worldwide in the drug authentication systems. It can be deduced that the online drug authentication system can also be improved.  
+The feasibility study resulted in the following conclusions: - 
+	i) 	An online drug package authentication using qr codes can be developed using java, 
+HTML (Hypertext Mark-up Language), CSS (Cascading Style Sheets), and PHP  

@@ -1,0 +1,71 @@
+<fieldset>
+    <h3>Subject</h3>
+    <label for="Mathematics">Mathematics:
+        <input type="radio" name="Mathematics" id="">
+    </label><br>
+    <label for="English">English:
+        <input type="radio" name="English" id="">
+    </label><br>
+    <label for="Biology">Biology:
+        <input type="radio" name="Biology" id="">
+    </label><br>
+    <label for="Chemistry">Chemistry:
+        <input type="radio" name="Chemistry" id="">
+    </label><br>
+    <label for="Geology">Geology:
+        <input type="radio" name="Geology" id="">
+    </label><br>
+    <label for="Physics">Physics:
+        <input type="radio" name="Physics" id="">
+    </label><br>
+    <label for="History">History:
+        <input type="radio" name="History" id="">
+    </label><br>
+    <label for="Literature in English">Literature in English:
+        <input type="radio" name="Literature_in_English" id="">
+    </label><br>
+    <label for="Government">Government:
+        <input type="radio" name="Government" id="">
+    </label><br>
+    <label for="Economics">Economics:
+        <input type="radio" name="Economics" id="">
+    </label><br>
+    <label for="Commerce">Commerce:
+        <input type="radio" name="Commerce" id="">
+    </label><br>
+    <label for="Civic Education">Civic Education:
+        <input type="radio" name="Civic Education" id="">
+    </label><br>
+    <label for="Christian Religious Studies">Christian Religious Studies:
+        <input type="radio" name="Christian_Religious_Studies" id="">
+    </label><br>
+    <label for="Islamic Religious Studies">Islamic Religious Studies:
+        <input type="radio" name="Islamic_Religious_Studies" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    <label for="HOD">HOD:
+        <input type="radio" name="HOD" id="">
+    </label><br>
+    
+    
+</fieldset>

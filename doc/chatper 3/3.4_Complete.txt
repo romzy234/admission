@@ -1,0 +1,46 @@
+Requirements specify what features a product should include and how those features should work.
+ They help to define the test criteria, which is vital for verification and validation.
+ 
+ 
+ ######3.4.1 Funtional Requirement
+ A functional requirement explicitly states the services that the system must offer, typically they specify a behaviour or function. It could be a calculation, data manipulation, business process, user interaction, or any known functionality which defines what function it could offer or perform.
+ 
+This system is divided into two parts, the Admission Officer Route and Guest Page. 
+Most Of the system functionality is handle in the Admission Officer Route (Admin) while the (Guest)Users Can Only Make A few get request to check his status in the Addmision Table 
+
+%%%%%Diagram 3.4.1 Sitemap Diagram
+
+Below are the functional requirements of the Admission Officer:
+    a) The Login function
+    b) Logout Function
+    c) Creating Department
+    d) Updating Department
+    e) Registar Applicant
+    f) Updating Applicant Records
+    g) Deleting Department
+    h) Deleting Applicant
+    i) Generate Admission List
+    j) Export Admission List
+    k) Send Status to Applicant
+
+Below are the functional requirements of an Applicant:
+	a) Search For Account State
+	b) Make A Complain or Send a Message to the Admision Officer
+	
+
+%%%%%%%%%%%%% Use Case Diagram
+
+
+            3.3.2 	NON-FUNCTIONAL REQUIREMENTS  
+A non-functional requirement (NFR) is a requirement that specifies criteria rather than specific behaviours that can be used to judge the operation of a system. It is referred as the quality attributes of the system. During the cause of our requirement gathering, the following non functionality requirements would need to be met:
+    a) Usability: The application Was dsign with The Concept Of ease Of Use i.e. it should not be complex to use, This System requires Minimum traing to Use 
+    b) Performance: The System Was Design to be fast even when challaged with traffic or large volume of data, it has little to no fuss.
+    c) Cost Effectiveness: Very import for users is the cost of acquiring and using the application. The application Can Be ran Locally or hosted 
+    its is built to be light weight and it consumse low bandwith per request
+    
+Other Non-functional requirements 
+    i. Scalability
+    ii. Capacity
+    iii. Maintainability
+    iv. Serviceability
+

@@ -1,0 +1,37 @@
+Tree 
+Staff Table 
+Applicant Table
+Admission Table 
+Department Table 
+
+admission table 
+	name of student 
+	applicant_id
+	matricNo
+	Department
+	grade cummlative score 
+	ID
+	date
+
+Staff Table  
+	name of admission staff
+	password
+	email
+
+Applicant Table 
+	name,
+	state of Orgign
+	result []
+	jamb score
+	gender
+	department
+	email
+	status - pending | fail|admission
+	
+Department
+	name
+	max Number
+	jamb score
+	wace[]
+	hod
+	detail

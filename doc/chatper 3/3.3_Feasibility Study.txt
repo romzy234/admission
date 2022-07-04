@@ -1,0 +1,6 @@
+3.3 FEASIBILITY STUDY 
+Applying the novel trends In Nigeria in the Admiison Process And Requirement. It can be deduced that the internal Admission System Can Scaled and improved.  
+The feasibility study resulted in the following conclusions: - 
+	i) 	An Online System With Set Of Rules Given by a Department to allocate Admission for the best set of applicant in the university, 
+And  
+ii) a system to easily generate data from the system in excel 
